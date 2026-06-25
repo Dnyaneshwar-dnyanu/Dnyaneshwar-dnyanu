@@ -19,6 +19,9 @@
     <a href="https://instagram.com/dnyanu5619" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
     </a> 
+    <a href="https://dnyaneshwar-portfolio.vercel.app" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-22C55E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="alsiam" />
+    </a>
 </p>
 <br/>
 
